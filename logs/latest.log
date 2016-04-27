@@ -1,0 +1,40 @@
+[23:37:15] [Server thread/INFO]: Starting minecraft server version 1.8.1
+[23:37:15] [Server thread/INFO]: Loading properties
+[23:37:15] [Server thread/INFO]: Default game type: SURVIVAL
+[23:37:15] [Server thread/INFO]: Generating keypair
+[23:37:15] [Server thread/INFO]: Starting Minecraft server on 25.72.208.192:25565
+[23:37:15] [Server thread/INFO]: Using default channel type
+[23:37:15] [Server thread/INFO]: Preparing level "Terra"
+[23:37:16] [Server thread/INFO]: Preparing start region for level 0
+[23:37:16] [Server thread/INFO]: Done (1.365s)! For help, type "help" or "?"
+[23:37:23] [User Authenticator #1/INFO]: UUID of player UrchinSea is 859cf103-cea1-4e88-88c4-29b36a89ef31
+[23:37:23] [Server thread/INFO]: UrchinSea[/25.29.26.8:60949] logged in with entity id 38 at (1606.3040513893357, 40.0, -86.37983226788936)
+[23:37:23] [Server thread/INFO]: UrchinSea joined the game
+[23:41:42] [User Authenticator #2/INFO]: UUID of player milkyleaf is e6403186-7ad6-4d56-895c-b0fd8124b075
+[23:41:42] [Server thread/INFO]: milkyleaf[/25.117.112.199:51722] logged in with entity id 804 at (1558.2795847924845, 106.0, -83.2037746306256)
+[23:41:42] [Server thread/INFO]: milkyleaf joined the game
+[23:42:33] [User Authenticator #3/INFO]: UUID of player Aylieinthecity is 147a6ee2-90a6-48d7-94d0-4c179d2febf2
+[23:42:33] [Server thread/INFO]: Aylieinthecity[/25.49.69.126:50242] logged in with entity id 844 at (1551.9052677850236, 106.0, -90.75683914982277)
+[23:42:33] [Server thread/INFO]: Aylieinthecity joined the game
+[23:42:39] [Server thread/INFO]: milkyleaf lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:42:39] [Server thread/INFO]: milkyleaf left the game
+[23:43:26] [Server thread/INFO]: UrchinSea lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:43:26] [Server thread/INFO]: UrchinSea left the game
+[23:43:32] [User Authenticator #4/INFO]: UUID of player UrchinSea is 859cf103-cea1-4e88-88c4-29b36a89ef31
+[23:43:32] [Server thread/INFO]: UrchinSea[/25.29.26.8:60981] logged in with entity id 912 at (1545.2533802518037, 106.0, -83.89583724835187)
+[23:43:32] [Server thread/INFO]: UrchinSea joined the game
+[23:43:41] [Server thread/INFO]: Aylieinthecity lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:43:41] [Server thread/INFO]: Aylieinthecity left the game
+[23:46:09] [User Authenticator #5/INFO]: UUID of player milkyleaf is e6403186-7ad6-4d56-895c-b0fd8124b075
+[23:46:09] [Server thread/INFO]: milkyleaf[/25.117.112.199:51750] logged in with entity id 991 at (1552.9979131305295, 106.0, -91.48290515814726)
+[23:46:09] [Server thread/INFO]: milkyleaf joined the game
+[23:47:33] [Server thread/INFO]: UrchinSea lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:47:33] [Server thread/INFO]: UrchinSea left the game
+[23:47:56] [Server thread/INFO]: milkyleaf lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:47:56] [Server thread/INFO]: milkyleaf left the game
+[23:48:07] [Server thread/INFO]: Stopping server
+[23:48:07] [Server thread/INFO]: Saving players
+[23:48:07] [Server thread/INFO]: Saving worlds
+[23:48:07] [Server thread/INFO]: Saving chunks for level 'Terra'/Overworld
+[23:48:07] [Server thread/INFO]: Saving chunks for level 'Terra'/Nether
+[23:48:07] [Server thread/INFO]: Saving chunks for level 'Terra'/The End
